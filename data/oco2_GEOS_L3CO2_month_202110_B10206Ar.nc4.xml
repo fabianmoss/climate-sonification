@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="/data//S4paGran2HTML.xsl"?>
+<S4PAGranuleMetaDataFile>
+  <CollectionMetaData>
+    <LongName>OCO-2 GEOS Level 3 monthly, 0.5x0.625 assimilated CO2</LongName>
+    <ShortName>OCO2_GEOS_L3CO2_MONTH</ShortName>
+    <VersionID>10r</VersionID>
+    <URL xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="/data//OCO2_DATA/OCO2_GEOS_L3CO2_MONTH.10r/OCO2_GEOS_L3CO2_MONTH_10r_dif.xml" xlink:show="new" xlink:actuate="onRequest" xlink:title="Click to view OCO2_GEOS_L3CO2_MONTH collection">/data//OCO2_DATA/OCO2_GEOS_L3CO2_MONTH.10r/OCO2_GEOS_L3CO2_MONTH_10r_dif.xml</URL>
+  </CollectionMetaData>
+  <DataGranule>
+    <GranuleID>oco2_GEOS_L3CO2_month_202110_B10206Ar.nc4</GranuleID>
+    <Format>NetCDF-4</Format>
+    <CheckSum>
+      <CheckSumType>CRC32</CheckSumType>
+      <CheckSumValue>2051437490</CheckSumValue>
+    </CheckSum>
+    <SizeBytesDataGranule>3363329</SizeBytesDataGranule>
+    <InsertDateTime>2022-03-28 22:32:16</InsertDateTime>
+    <ProductionDateTime>2022-03-15T12:26:29Z</ProductionDateTime>
+  </DataGranule>
+  <RangeDateTime>
+    <RangeEndingDate>2021-10-01</RangeEndingDate>
+    <RangeEndingTime>23:59:59</RangeEndingTime>
+    <RangeBeginningDate>2021-10-01</RangeBeginningDate>
+    <RangeBeginningTime>00:00:00</RangeBeginningTime>
+  </RangeDateTime>
+  <SpatialDomainContainer>
+    <HorizontalSpatialDomainContainer>
+      <BoundingRectangle>
+        <WestBoundingCoordinate>-180.0</WestBoundingCoordinate>
+        <NorthBoundingCoordinate>90.0</NorthBoundingCoordinate>
+        <EastBoundingCoordinate>179.375</EastBoundingCoordinate>
+        <SouthBoundingCoordinate>-90.0</SouthBoundingCoordinate>
+      </BoundingRectangle>
+    </HorizontalSpatialDomainContainer>
+  </SpatialDomainContainer>
+  <Platform>
+    <PlatformShortName>OCO-2</PlatformShortName>
+    <Instrument>
+      <InstrumentShortName>OCO-2</InstrumentShortName>
+      <Sensor>
+        <SensorShortName>ABO2</SensorShortName>
+      </Sensor>
+      <Sensor>
+        <SensorShortName>WCO2</SensorShortName>
+      </Sensor>
+      <Sensor>
+        <SensorShortName>SCO2</SensorShortName>
+      </Sensor>
+    </Instrument>
+  </Platform>
+</S4PAGranuleMetaDataFile>
