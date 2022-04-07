@@ -4,6 +4,8 @@ In this project we use NASA's recently published data on regional effects of hum
 Due to the COVID lockdowns that happend at different moments in different areas, the researchers were able to disentangle 
 human activitiy causes from natural ones.
 
+![animation](img/animation.gif)
+
 #### Data
 
 - daily: 
