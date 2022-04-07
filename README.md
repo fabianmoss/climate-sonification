@@ -8,6 +8,9 @@ human activitiy causes from natural ones.
 
 #### Data
 
+Detailed instructions for data access can be found [here](https://disc.gsfc.nasa.gov/data-access).
+
+
 - daily: 
   - https://disc.gsfc.nasa.gov/datasets/OCO2_GEOS_L3CO2_DAY_10r/summary?keywords=OCO2_GEOS_L3CO2_MONTH
   - https://cmr.earthdata.nasa.gov/search/concepts/C2240248762-GES_DISC.html
