@@ -1,36 +1,49 @@
 # Climate Sonification: Sonify NASA data on climate change during the Covid crisis 
 
-In this project we use NASA's recently published data on regional effects of human activity on carbon dioxide emissions.
+_Iris Folpmers, Fabian C. Moss, Tobias Blanke_
+
+In this project we use NASA's recently published data [1] on regional effects of human activity on carbon dioxide emissions.
 Due to the COVID lockdowns that happend at different moments in different areas, the researchers were able to disentangle 
 human activitiy causes from natural ones.
 
+![global average](img/daily_global_average.png)
+
 ![animation](img/animation_monthly.gif)
+
+#### Project timeline
+
+- ~~8 April: First meeting~~
+- 15 April: Project Plan due
+- 16-25 May: midterm presentation
+- 1 July: Final deadline thesis
 
 #### Data
 
 Detailed instructions for data access can be found [here](https://disc.gsfc.nasa.gov/data-access).
 
-Short version:
+To obtain data locally, follow these steps (**Be careful: loading the daily data took me about ~2h**)
+
 1. Create [Earthdata account](https://disc.gsfc.nasa.gov/).
 2. Run `setup.sh` and follow instructions.
 
-Lists of URLs to download can be created here, but should already be in the repo:
-- daily: 
-  - https://disc.gsfc.nasa.gov/datasets/OCO2_GEOS_L3CO2_DAY_10r/summary?keywords=OCO2_GEOS_L3CO2_MONTH
-  - https://cmr.earthdata.nasa.gov/search/concepts/C2240248762-GES_DISC.html
-- monthly: 
-  - https://disc.gsfc.nasa.gov/datasets/OCO2_GEOS_L3CO2_MONTH_10r/summary?keywords=OCO2_GEOS_L3CO2_MONTH
-  - https://cmr.earthdata.nasa.gov/search/concepts/C2240248790-GES_DISC.html
+If in Step 2 you were asked for lists links, you can obtain them here:
+- daily: https://disc.gsfc.nasa.gov/datasets/OCO2_GEOS_L3CO2_DAY_10r/summary?keywords=OCO2_GEOS_L3CO2_MONTH
+- monthly: https://disc.gsfc.nasa.gov/datasets/OCO2_GEOS_L3CO2_MONTH_10r/summary?keywords=OCO2_GEOS_L3CO2_MONTH
 
 #### Links
 
 - NASA sonification examples: https://chandra.si.edu/sound
 - news report: https://scitechdaily.com/nasa-makes-first-of-its-kind-detection-of-reduced-human-co2-emissions/ 
 - tutorials for NetCDF format:
-  - https://www.earthinversion.com/utilities/reading-NetCDF4-data-in-python/
-  - http://schubert.atmos.colostate.edu/~cslocum/netcdf_example.html
+  - quick tutorial: https://www.earthinversion.com/utilities/reading-NetCDF4-data-in-python/
+  - official documentation: https://unidata.github.io/netcdf4-python/
+
+#### Sonification
+
+- Astronify - out of the box library for sonification: https://astronify.readthedocs.io/en/latest/
 - sonification tutorials
-  - https://programminghistorian.org/en/lessons/sonification
+  - step-by-step guide: https://jupyter.brynmawr.edu/services/public/dblank/jupyter.cs/Sonification.ipynb
+  - (https://programminghistorian.org/en/lessons/sonification)
 
 #### References
 
