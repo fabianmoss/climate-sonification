@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # NASA data
-data/**/*.nc4
+# data/**/*.nc4
