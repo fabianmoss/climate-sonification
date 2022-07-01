@@ -19,7 +19,7 @@ The corresponding visualizations and sonification to section 3.2 of the thesis. 
 
 This sonification was also used for the first question of the Evaluation in section 4.1.2 of the thesis.
 
-![Northern average](img/sounds/monthly_northernmeans.mp4)
+![Northern average](img/monthly_northernmeans.mp4)
 
 
 ### Northern detrended means
@@ -32,7 +32,7 @@ This sonification was also used for the first question of the Evaluation in sect
 
 This sonification was also used for the third question of the Evaluation in section 4.1.2 of the thesis.
 
-![Northern average](img/sounds/monthly_northerndetrended.mp4)
+![Northern average](img/monthly_northerndetrended.mp4)
 
 ### Northern derivative of the means
 
@@ -46,7 +46,7 @@ This sonification was also used for the third question of the Evaluation in sect
 
 This sonification was also used for the second question of the Evaluation in section 4.1.2 of the thesis.
 
-![Northern average](img/sounds/monthly_northernderivative.mp4)
+![Northern average](img/monthly_northernderivative.mp4)
 
 
 
