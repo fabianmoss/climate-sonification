@@ -21,6 +21,7 @@ This sonification was also used for the first question of the Evaluation in sect
 
 ![Northern average](img/monthly_northernmeans.mp4)
 
+If this sonification is not available, it can also be found on: https://drive.google.com/file/d/1t6Oo709IFgNUvufWuoMEXoQFuIA7YHF-/view?usp=sharing
 
 ### Northern detrended means
 
@@ -31,6 +32,8 @@ This sonification was also used for the first question of the Evaluation in sect
 #### Sonification
 
 This sonification was also used for the third question of the Evaluation in section 4.1.2 of the thesis.
+
+If this sonification is not available, it can also be found on: https://drive.google.com/file/d/1LtSdiri5piYhK1C8_rzOf5104HZe66dV/view?usp=sharing
 
 ![Northern average](img/monthly_northerndetrended.mp4)
 
@@ -48,7 +51,7 @@ This sonification was also used for the second question of the Evaluation in sec
 
 ![Northern average](img/monthly_northernderivative.mp4)
 
-
+If this sonification is not available, it can also be found on: https://drive.google.com/file/d/1tx4QmoEpmvs1YeOEO9tY92PUl5XSx7c_/view?usp=sharing
 
 
 
