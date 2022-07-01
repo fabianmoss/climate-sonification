@@ -33,9 +33,10 @@ If this sonification is not available, it can also be found on: https://drive.go
 
 This sonification was also used for the third question of the Evaluation in section 4.1.2 of the thesis.
 
+![Northern average](img/monthly_northerndetrended.mp4)
+
 If this sonification is not available, it can also be found on: https://drive.google.com/file/d/1LtSdiri5piYhK1C8_rzOf5104HZe66dV/view?usp=sharing
 
-![Northern average](img/monthly_northerndetrended.mp4)
 
 ### Northern derivative of the means
 
